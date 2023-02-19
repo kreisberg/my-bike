@@ -13,5 +13,5 @@ There is my new training project. I was working with original layout from UI des
 
 ### Technologies
 
-To create this page I used HTML/CSS (BEM/SASS) and JavaScript.
+To create this page I used HTML/CSS (BEM/SASS) and JavaScript. And also a Grid for some blocks and add AOS classes to animate elements. This page adapted for Mobile, Tablet and Desktop users.
 
